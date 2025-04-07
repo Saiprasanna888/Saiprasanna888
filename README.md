@@ -14,9 +14,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Cryptography Techniques & Shell Scripting     | <a href="https://github.com/Saiprasanna888/Text-Encryption">Test-Encryption</a>|
 | Live system monitoring and threat detection   | <a href="https://github.com/Saiprasanna888/Python-Keylogger">Python keylogger</a>|
 | Linux                                         |  Secured, optimized, and maintained Linux infrastructure |
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
 
@@ -53,7 +50,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/Saiprasanna888/vulnerability-scanning-webapp">Vulnerability_scanning_using-BrupSuite</a>
-- SOC Automation Project
+  
 
 
 ## Practical Experience
