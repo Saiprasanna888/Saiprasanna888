@@ -8,19 +8,17 @@ I am a recent graduate with a profound interest in technology and a dedication t
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Project  & Learning      |
 |-----------------------------------------------|----------------------------|
 | Cryptography Techniques & Shell Scripting     | <a href="https://github.com/Saiprasanna888/Text-Encryption">Test-Encryption</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Live system monitoring and threat detection   | <a href="https://github.com/Saiprasanna888/Python-Keylogger">Python keylogger</a>|
+| Linux                                         |  Secured, optimized, and maintained Linux infrastructure |
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -45,13 +43,25 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+
+ <img src="https://img.shields.io/badge/-Cisco%20Intro%20to%20Cybersecurity-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-E94235?&style=for-the-badge&logo=google&logoColor=white" />
+ <img src="https://img.shields.io/badge/-ISC2%20CC-00b386?&style=for-the-badge&logo=ISC2&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Microsoft%20Security%20Operations%20Analyst-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+
 </div>
 
 ## Projects
 - Detection Lab
 - SOC Automation Project
+
+
+## Practical Experience
+🔹 Telstra Cybersecurity Job Simulation
+
+   Gained hands-on experience by responding to a simulated malware attack, performing incident analysis, and conducting a detailed postmortem to identify root causes and suggest 
+   improvements. Developed core skills in threat detection, containment, and response within a simulated SOC environment.
+ 
+🔹 Mastercard Cybersecurity Simulation
+
+Handled real-world inspired incidents such as phishing threats and a Spring4Shell vulnerability. Reviewed firewall logs to identify malicious activity, drafted professional incident response communications, and submitted firewall rule change requests—enhancing both technical and communication skills essential for modern security operations.
