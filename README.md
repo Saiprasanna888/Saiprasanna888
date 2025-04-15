@@ -1,11 +1,17 @@
 # Hello, I'm MUPPALLA SAIPRASANNA
 <a href="https://linkedin.com/in/muppallasaiprasanna"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+A passionate and detail-oriented **Security Analyst** with a deep interest in **Blue Team** operations, **Threat Hunting**, and **Incident Response**. I believe in **learning by doing**, and my repositories reflect real-world simulations, tools, and hands-on cybersecurity labs.
 
-## Objective
+## AboutMe
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+- 👨‍💻 Intern @ CFSS | Learning and working on real-world cyber threats
+- 🛡️ Aspiring SOC Analyst (L1) | Building skills through Let'sDefend & projects
+- 🧠 ISC2 Certified in Cybersecurity (in progress) | Google Cybersecurity Certificate (in progress)
+- 🧱 Focus: SOC Fundamentals | SIEM | Threat Intelligence | ELK Stack | Malware Analysis | Cloud Security
+- 💻 Home Lab: Kali Linux | Windows 10 | Ubuntu | Windows Server | VirtualBox
+- 🙏 Devotee of Lord Shiva and Hanuman – discipline, strength, and devotion fuel my mindset.
 
 ## Skills
 
@@ -38,7 +44,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 
  <img src="https://img.shields.io/badge/-Cisco%20Intro%20to%20Cybersecurity-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
@@ -62,3 +67,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 🔹 Mastercard Cybersecurity Simulation
 
 Handled real-world inspired incidents such as phishing threats and a Spring4Shell vulnerability. Reviewed firewall logs to identify malicious activity, drafted professional incident response communications, and submitted firewall rule change requests—enhancing both technical and communication skills essential for modern security operations.
+
+
+## 🙌 Let's Connect!
+
+- 📬 Email: [muppallasaiprasanna@gmail.com]
+- 🌐 LinkedIn: (https://linkedin.com/in/muppallasaiprasanna)
+- 📁 Portfolio Website: {https://saiprasanna-portfolio.netlify.app/}
+
