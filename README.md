@@ -24,7 +24,7 @@
 ---
 
 ## 📚 Projects  
-- 🔹 [SaixCyber Blogs](https://saixcyber-blogs888-5m8k2minx-saiparasannas-projects.vercel.app) — Cybersecurity blog website built with Dyad, Next.js, and Vercel  
+- 🔹 [SaixCyber Blogs](https://saix-cyber-blogs.vercel.app/) — Cybersecurity blog website built with Dyad, Next.js, and Vercel  
 - 🔹 SOC Automation Lab — Integrated Wazuh (SIEM/XDR), TheHive (Case Management), and Shuffle (SOAR) for automated alert triage and response  
 - 🔹 Active Directory Security Lab — Configured a Windows Server domain with group policies, user management, and security hardening for SOC monitoring  
 
