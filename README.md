@@ -36,7 +36,6 @@
 
 ![Google Cybersecurity Professional Certificate](https://img.shields.io/badge/Google%20Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)  
 
-![Microsoft Security Operations Analyst Associate](https://img.shields.io/badge/Microsoft%20Certified%20Security%20Operations%20Analyst%20Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)  
 
 ![Mastercard Cybersecurity Simulation](https://img.shields.io/badge/Mastercard%20Cybersecurity%20Simulation%20on%20Forage-EB001B?style=for-the-badge&logo=mastercard&logoColor=white)  
 
