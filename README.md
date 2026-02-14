@@ -1,46 +1,94 @@
-# 👋 Hi, I'm Saiprasanna Muppalla  
-
-🔐 **Cybersecurity Analyst | SOC Enthusiast | Cloud Security Learner**  
-🌍 Based in Hyderabad, India | 💼 Open to SOC Analyst Opportunities  
+<h1 align="center">Hi 👋, I'm Muppalla Saiprasanna</h1>
+<h3 align="center">Security Operations Center (SOC) Analyst | Threat Detection & Incident Response | Blue Team Defender</h3>
 
 ---
 
-## 🚀 About Me  
-- 🎯 Focused on building a career as a **SOC Analyst**  
-- 💻 Hands-on experience with **SIEM, Threat Hunting, and Incident Response**  
-- ☁️ Exploring **Cloud Security** (OCI & GCP)  
-- 🛠️ Passionate about creating cybersecurity projects and blogs  
-- 🙏 Devotee of **Lord Shiva and Hanuman**  
+## 🛡️ About Me
+
+🎓 B.Tech CSE (Cybersecurity) Graduate  
+🔐 Focused on Threat Detection, Incident Response & Security Monitoring  
+🖥️ Hands-on experience with SIEM, EDR, and SOC operations  
+🚀 Actively seeking entry-level SOC Analyst opportunities  
+
+✔️ Skilled in log analysis, alert triage, and security automation  
+✔️ Strong interest in Blue Team defense and real-time threat monitoring  
 
 ---
 
-## 🛠️ Skills  
-- **Cybersecurity:** SOC Operations, SIEM, Incident Response, Threat Intelligence  
-- **Cloud Security:** OCI, Google Cloud (Foundational Knowledge)  
-- **Tools & Platforms:** Kali Linux, ELK, Suricata, TheHive, Vercel, GitHub  
-- **Programming:** Python (basics), Bash  
-- **Soft Skills:** Problem-solving, Documentation, Continuous Learning  
+## 🔍 SOC & CYBERSECURITY SKILLS
+
+### 🔹 Security Operations
+- SIEM Monitoring & Log Analysis
+- Incident Response & Threat Investigation
+- Threat Intelligence & IOC Analysis
+- MITRE ATT&CK Framework Mapping
+- Alert Triage & Escalation Procedures
+
+### 🔹 Log Analysis & Monitoring
+- Windows Event Logs & Sysmon
+- Authentication & Privilege Esc. Logs
+- Firewall & Network Traffic Logs
+- IDS/IPS Alerts Analysis
+
+### 🔹 Tools & Technologies
+- Splunk SIEM
+- Wazuh (HIDS)
+- ELK Stack (Elasticsearch, Logstash, Kibana)
+- Suricata IDS
+- LimaCharlie (EDR)
+- TheHive & Shuffle (SOAR)
+- Wireshark & tcpdump
+- Kali Linux Security Tools
+
+### 🔹 Operating Systems & Environments
+- Windows Server & Active Directory
+- Linux (Ubuntu Server, Kali Linux)
+- VirtualBox Lab Environments
+
+### 🔹 Security Concepts
+- Network Security Monitoring
+- Malware Analysis Fundamentals
+- Phishing Detection & Email Security
+- Firewall & IDS/IPS Analysis
+- Endpoint Detection & Response (EDR)
 
 ---
 
-## 📚 Projects  
-- 🔹 [SaixCyber Blogs](https://saix-cyber-blogs.vercel.app/) — Cybersecurity blog website built with Dyad, Next.js, and Vercel  
-- 🔹 SOC Automation Lab — Integrated Wazuh (SIEM/XDR), TheHive (Case Management), and Shuffle (SOAR) for automated alert triage and response  
-- 🔹 Active Directory Security Lab — Configured a Windows Server domain with group policies, user management, and security hardening for SOC monitoring  
+## 🧪 Featured SOC Projects
 
-👉 Check all my projects here: [GitHub Repositories](https://github.com/Saiprasanna888?tab=repositories)  
+### 🔹 🔐 Active Directory SOC Lab
+- Built Windows AD environment integrated with Splunk SIEM
+- Detected unauthorized login & brute-force attack simulations
+- Automated alert response using Shuffle + Slack notifications
+
+### 🔹 🤖 SOC Automation Workflow
+- Integrated Wazuh → Shuffle → TheHive
+- Automated alert enrichment and case creation
+- Reduced manual triage effort through workflow automation
+
+### 🔹 🛡️ SOAR + EDR Integration
+- Integrated LimaCharlie EDR with Tines SOAR platform
+- Automated endpoint isolation & real-time Slack alerts
+- Improved incident response speed through automation
+
+👉 Explore all projects:
+🔗 https://github.com/Saiprasanna888
 
 ---
 
-## 📜 Certifications  
+## 📜 Certifications
 
-![Google Cybersecurity Professional Certificate](https://img.shields.io/badge/Google%20Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)  
+![Google Cybersecurity Professional Certificate](https://img.shields.io/badge/Google%20Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LetsDefend SOC Analyst](https://img.shields.io/badge/LetsDefend-SOC%20Analyst%20Path-success?style=for-the-badge)
 
+---
 
-![Mastercard Cybersecurity Simulation](https://img.shields.io/badge/Mastercard%20Cybersecurity%20Simulation%20on%20Forage-EB001B?style=for-the-badge&logo=mastercard&logoColor=white)  
+## 📈 Currently Advancing Skills In
 
-![OCI Foundations Associate (In Progress)](https://img.shields.io/badge/OCI%20Foundations%20Associate%20-In%20Progress-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
- 
+- Microsoft Sentinel & Defender XDR
+- Cloud Security Monitoring
+- Security Automation & SOAR Engineering
+- Detection Engineering & Use Case Development
 
 ---
 
@@ -51,5 +99,4 @@
 
 ---
 
-⭐️ From [Saiprasanna888](https://github.com/Saiprasanna888)
-
+⭐ **Detect. Analyze. Respond. Defend.**
