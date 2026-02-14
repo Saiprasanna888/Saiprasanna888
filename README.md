@@ -72,7 +72,7 @@
 - Improved incident response speed through automation
 
 👉 Explore all projects:
-🔗 https://github.com/Saiprasanna888
+🔗 https://github.com/Saiprasanna888?tab=repositories
 
 ---
 
