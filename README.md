@@ -6,7 +6,7 @@
 ## 🛡️ About Me
 
 🎓 B.Tech CSE (Cybersecurity) Graduate  
-🔐 SOC Analyst with 2 years of experience in Threat Detection, Incident Response & Security Monitoring  
+🔐 SOC Analyst with 1.5 years of experience in Threat Detection, Incident Response & Security Monitoring  
 🖥️ Hands-on experience with SIEM (Splunk, Microsoft Sentinel), EDR, and enterprise SOC operations  
 🚀 Passionate about strengthening organizational security and improving threat visibility  
 
@@ -103,12 +103,7 @@
 
 ---
 
-## 📈 Currently Advancing Skills In
 
-- Microsoft Sentinel & Defender XDR
-- Cloud Security Monitoring
-- Security Automation & SOAR Engineering
-- Detection Engineering & Use Case Development
 
 ---
 
