@@ -6,54 +6,74 @@
 ## 🛡️ About Me
 
 🎓 B.Tech CSE (Cybersecurity) Graduate  
-🔐 Focused on Threat Detection, Incident Response & Security Monitoring  
-🖥️ Hands-on experience with SIEM, EDR, and SOC operations  
-🚀 Actively seeking entry-level SOC Analyst opportunities  
+🔐 SOC Analyst with 2 years of experience in Threat Detection, Incident Response & Security Monitoring  
+🖥️ Hands-on experience with SIEM (Splunk, Microsoft Sentinel), EDR, and enterprise SOC operations  
+🚀 Passionate about strengthening organizational security and improving threat visibility  
 
-✔️ Skilled in log analysis, alert triage, and security automation  
+✔️ Skilled in log analysis, alert triage, and incident investigation  
+✔️ Experienced in endpoint threat detection & phishing analysis  
+✔️ Knowledge of DLP, File Integrity Monitoring, and security compliance checks  
 ✔️ Strong interest in Blue Team defense and real-time threat monitoring  
 
----
-
-## 🔍 SOC & CYBERSECURITY SKILLS
-
-### 🔹 Security Operations
-- SIEM Monitoring & Log Analysis
-- Incident Response & Threat Investigation
-- Threat Intelligence & IOC Analysis
-- MITRE ATT&CK Framework Mapping
-- Alert Triage & Escalation Procedures
-
-### 🔹 Log Analysis & Monitoring
-- Windows Event Logs & Sysmon
-- Authentication & Privilege Esc. Logs
-- Firewall & Network Traffic Logs
-- IDS/IPS Alerts Analysis
-
-### 🔹 Tools & Technologies
-- Splunk SIEM
-- Wazuh (HIDS)
-- ELK Stack (Elasticsearch, Logstash, Kibana)
-- Suricata IDS
-- LimaCharlie (EDR)
-- TheHive & Shuffle (SOAR)
-- Wireshark & tcpdump
-- Kali Linux Security Tools
-
-### 🔹 Operating Systems & Environments
-- Windows Server & Active Directory
-- Linux (Ubuntu Server, Kali Linux)
-- VirtualBox Lab Environments
-
-### 🔹 Security Concepts
-- Network Security Monitoring
-- Malware Analysis Fundamentals
-- Phishing Detection & Email Security
-- Firewall & IDS/IPS Analysis
-- Endpoint Detection & Response (EDR)
 
 ---
 
+## 🧰 Security Tools & Platforms
+
+### 🔍 SIEM & Log Management
+• Splunk  
+• Microsoft Sentinel  
+• Elastic SIEM  
+
+### 💻 Endpoint Security / EDR
+• Microsoft Defender ATP  
+• Carbon Black  
+
+### 📧 Phishing & Email Security
+• Microsoft O365 Defender  
+• IronScales  
+
+### 🌐 Threat Intelligence & OSINT
+• VirusTotal  
+• MISP  
+• Recorded Future  
+• OSINT Frameworks  
+
+### 🔐 Data Loss Prevention (DLP)
+• Symantec DLP  
+• Forcepoint DLP  
+
+### ☁️ Cloud Security
+• AWS CloudTrail  
+• Azure Security Center  
+• Microsoft 365 Security & Compliance  
+
+### 🌍 Network Security
+• Firewalls: Palo Alto, Check Point, Fortinet  
+• IDS/IPS: Snort, Suricata, Zeek  
+• VPN Security  
+• Web Application Firewall (WAF)  
+• Proxy Servers  
+
+### 🌐 Networking Protocols & Fundamentals
+• OSI Model  
+• TCP/IP  
+• DNS  
+• HTTP / HTTPS / TLS  
+• SMTP  
+
+### 🧪 Forensics & Malware Analysis
+• Wireshark  
+• FTK  
+
+### 🗂️ Ticketing & Case Management
+• ServiceNow  
+• JIRA  
+
+### 📚 Frameworks & Security Standards
+• MITRE ATT&CK  
+• Cyber Kill Chain  
+• NIST Cybersecurity Framework (CSF)
 ## 🧪 Featured SOC Projects
 
 ### 🔹 🔐 Active Directory SOC Lab
